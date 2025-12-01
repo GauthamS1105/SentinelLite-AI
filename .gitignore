@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Runtime data
+backend/scans.json
+
+# Node / Frontend (if ever added)
+node_modules/
+dist/
